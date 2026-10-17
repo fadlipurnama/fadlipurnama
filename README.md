@@ -58,6 +58,12 @@
   <img src="https://img.shields.io/badge/Figma-1E293B?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma badge"  />
 </div>
 
+<br clear="both">
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/fadlipurnama/fadlipurnama/snake-output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div data-importer="stats" align="center">
@@ -75,13 +81,6 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/fadlipurnama/fadlipurnama/languages-output/languages.svg?locale=en&include_all_commits=true&count_private=true&disable_animations=false&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/fadlipurnama/fadlipurnama/snake-output/snake.svg" alt="Snake animation" />
-
 
 ###
 
